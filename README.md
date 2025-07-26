@@ -9,4 +9,7 @@ after that i modified the top tensioner to add a few extra features
 - carrier now has slides to keep it in place
 - cute Kat face for... well... Katz!
 
-i big thank you to HartK for making this even possible by making G2Z
+A **BIG** thank you to HartK for making this even possible by making G2Z
+
+original source material
+https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%200/0.2/G2Z

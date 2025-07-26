@@ -9,6 +9,9 @@ after that i modified the top tensioner to add a few extra features
 - carrier now has slides to keep it in place
 - cute Kat face for... well... Katz!
 
+![WhatsApp Image 2025-07-10 at 23 05 50_a58cc6a0](https://github.com/user-attachments/assets/db56a4f5-8446-452b-b66b-287a8bf4ba26)
+
+
 A **BIG** thank you to HartK for making this even possible by making G2Z
 
 original source material
